@@ -99,7 +99,7 @@ By the end of Day 1, participants should be able to:
 
 Click the button below to open the Day 1 hands-on notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_GOOGLE_COLAB_NOTEBOOK_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbdouSalamSisawo/TensorOrbit-EDA-Bootcamp/blob/main/day-1-foundations-pandas/day_1_notebook.ipynb)
 
 > **Note:** The Google Colab link will be added once the Day 1 notebook is uploaded to this repository.
 
