@@ -184,7 +184,7 @@ day-2-numpy-matplotlib/
 ## 📖 Resources
 
 * 📊 **Presentation Slides:** Available in the `slides/` folder.
-* 💻 **Google Colab Notebook:** [Open Day 2 Notebook](YOUR_GOOGLE_COLAB_NOTEBOOK_LINK_HERE)
+* 💻 **Google Colab Notebook:** [Open Day 2 Notebook](https://colab.research.google.com/github/AbdouSalamSisawo/TensorOrbit-EDA-Bootcamp/blob/main/day-2-numpy-matplotlib/day_2_notebook.ipynb)
 * 📂 **Additional Materials:** Available in the `materials/` folder.
 
 ---

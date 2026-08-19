@@ -251,7 +251,7 @@ day-3-applied-practice-capstone/
 # 📖 Resources
 
 * 📊 **Presentation Slides:** Available in the `slides/` folder.
-* 💻 **Google Colab Notebook:** [Open Day 3 Notebook](YOUR_GOOGLE_COLAB_NOTEBOOK_LINK_HERE)
+* 💻 **Google Colab Notebook:** [Open Day 3 Notebook](https://colab.research.google.com/drive/1d05t7wbbYK6CfZZQop9o_NslUMtgd9VE#scrollTo=K1ImrpYgX8qv)
 * 📂 **Dataset and Materials:** Available in the `materials/` folder.
 * 🚀 **Capstone Brief:** Available in the `materials/` folder.
 
